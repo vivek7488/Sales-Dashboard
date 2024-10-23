@@ -30,12 +30,15 @@ Dashboard Features
   The most successful product after  is Prod040, bringing in 19.3M.
   Other popular products, such as Prod159 and Prod239, significantly boost the overall revenue.
 
+
 How to Use the Dashboard
+
   Filters: You can filter data by market, product line, time period, and customer to gain specific insights.
   Visualizations: Use the bar charts, line graphs, and top product/customer lists to quickly assess performance.
   Trend Analysis: The revenue trend line helps you visualize historical performance and predict future sales patterns.
 
 Data Breakdown
+
 The dashboard uses the following key metrics and dimensions:
 
   Invoice ID: Unique identifier for each sale.
@@ -47,5 +50,6 @@ The dashboard uses the following key metrics and dimensions:
   Rating: Customer satisfaction score for each sale.
 
 Technology Stack
+
  Visualization Tools: PowerBI or Tableau (for visualizing data)
  Data Source: CSV files / SQL database
